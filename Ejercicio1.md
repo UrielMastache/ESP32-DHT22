@@ -62,7 +62,7 @@ void loop() {
 
 ![](https://github.com/UrielMastache/ESP32-DHT22/blob/main/Descargando%20libreria%20para%20sensor.png?raw=true)
 
-3. Hacer la conexion de **DHT11** con la **ESP32** como se muestra en la siguente imagen.
+3. Hacer la conexion de **DHT22** con la **ESP32** como se muestra en la siguente imagen.
 
 ![](https://github.com/UrielMastache/VisualCodePracticas/blob/main/Captura%20de%20pantalla%20(4).png?raw=true)
 
